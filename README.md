@@ -6,7 +6,7 @@ This project analyzes procurement and supplier-related data from World Bank–fu
 - Records: ~294,000 (reduced after preprocessing and outlier removal)
 - Features: Region, Country, Project ID, Procurement Method, Supplier Info, Signing Date, etc.
 
-##🔧 Key Steps
+## 🔧 Key Steps
  **Data Preprocessing**
 - Removed duplicates
 - Handled missing values (mode for categorical, median for numerical)
