@@ -33,11 +33,11 @@ This project analyzes procurement and supplier-related data from World Bank–fu
  **🧠 Results**
 - Best model(s): Random Forest Regressor (tuned)
 - R² Scores:
-- Linear Regression: ~0.076 (baseline)
-- Random Forest (default): ~0.210
-- Random Forest (tuned via GridSearchCV): 0.366 (CV Avg)
+ *- Linear Regression: ~0.076 (baseline)*
+ *- Random Forest (default): ~0.210*
+ *- Random Forest (tuned via GridSearchCV): 0.366 (CV Avg)*
 - Best RF Hyperparameters:
-- n_estimators=100, max_depth=None, min_samples_split=5
+ *- `n_estimators=100`, `max_depth=None`, `min_samples_split=5`*
 
 ##📁 Project Structure
 - contract_awards_modeling.ipynb – Main Jupyter Notebook
