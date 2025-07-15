@@ -40,7 +40,7 @@ This project analyzes procurement and supplier-related data from World Bank–fu
   -`n_estimators=100`, `max_depth=None`, `min_samples_split=5`
 
 ## 📁 Project Structure
-- contract_awards_modeling.ipynb – Main Jupyter Notebook
-- contract_data.csv – Dataset
+- Contract Awards In Investment Project Financing.ipynb – Main Jupyter Notebook
+- Contract Awards In Investment Project Financing.zip – Dataset
 - README.md – Project Overview
 
